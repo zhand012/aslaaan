@@ -329,5 +329,289 @@ line-height: normal;
 .text1 {
     text-align: center;
 }
+.otzivi h2{
+    color: #000;
+font-family: Oswald;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+display: flex;
+justify-content: center;
+margin: 0 auto;
+padding-top: 150px;
+}
 
+.ivan{
+    background-color:#F7F7F7;
+}
 
+.ivan p{
+    width: 290px;
+    color: var(--gray, #999);
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px; 
+}
+
+.ivam img{
+    color: var(--Accent, #F7654A);
+font-family: Oswald;
+font-size: 96px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.gas h4 {
+    width: 350px; 
+    flex-direction: row;
+    color: #000;
+    font-family: Oswald;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+}
+
+.gas h4 span{
+    width: 350px;
+    color: var(--Accent, #F7654A);
+font-family: Oswald;
+font-size: 21px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.42px;
+}
+
+.dad{
+    display: flex;
+    padding-top: 64px;
+    grid-gap: 60px;
+}
+
+.rabota{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+   background-color: #F7654A;
+}
+
+.rab{
+    display: flex;
+    align-items: center;
+}
+
+.rab h2{
+    width: 630px;
+    color: #FFF;
+    font-family: Oswald;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.96px;
+}
+
+.rab p{
+    width: 711px;
+    color: #FFF;
+    font-family: Oswald;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.48px;
+}
+
+.bala2{
+    width: 175px;
+
+}
+
+.knopka2{
+    color: #000;
+font-family: Oswald;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.7px;
+width: 175px;
+background: #FFF;
+padding-left: 15px;
+}
+
+.mama{
+display: flex;
+justify-content: center;
+padding-top: 60px;
+padding-bottom: 120px;
+}
+
+.kont{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.kont h2{
+    color: #000;
+
+/* h2 */
+font-family: Oswald;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.adres{
+    width: 255px;
+    padding-left: 50px;
+}
+
+.ad{
+    width: 255px;
+height: 29px;
+flex-shrink: 0;
+color: var(--gray, #999);
+text-align: center;
+
+/* h3 */
+font-family: Oswald;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.adre{
+    width: 255px;
+    color: #000;
+text-align: center;
+
+/* h3 */
+font-family: Oswald;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.telefon{
+    width: 255px;
+    padding-left: 50px;
+}
+
+.tel{
+    width: 255px;
+    color: var(--gray, #999);
+    text-align: center;
+    
+    /* h3 */
+    font-family: Oswald;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.te{
+    width: 255px;
+    color: #000;
+text-align: center;
+
+/* h3 */
+font-family: Oswald;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.time{
+    width: 255px;
+    padding-left: 50px;
+}
+
+.ti{
+    width: 255px;
+    color: var(--gray, #999);
+    text-align: center;
+    
+    /* h3 */
+    font-family: Oswald;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.t{
+    width: 255px;
+    color: #000;
+text-align: center;
+
+/* h3 */
+font-family: Oswald;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.email{
+    width: 255px;
+    padding-left: 50px;
+}
+
+.ema{
+    width: 255px;
+    color: var(--gray, #999);
+text-align: center;
+
+/* h3 */
+font-family: Oswald;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.em{
+    width: 255px;
+    color: var(--Accent, #F7654A);
+text-align: center;
+
+/* h3 */
+font-family: Oswald;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.adr{
+    width: 45px;
+    color: var(--Accent, #F7654A);
+    text-align: center;
+    font-family: Font Awesome 5 Pro;
+    font-size: 48px;
+}
+footer{
+    background-color: #404149;
+}
+.gf{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    color: white;
+}
